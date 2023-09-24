@@ -23,6 +23,3 @@ The Geospatial heatmap that provides insights into crimes against women in India
 <img src="images/image.png" alt="alt text" width="450"/>
 </kbd>
 </div>
-
-
-- Aayush Subramaniam
